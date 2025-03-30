@@ -18,7 +18,7 @@ A simple and interactive To-Do application built with Flask and SQLite to manage
 
    **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/To-Do-App.git
+   git clone https://github.com/madhumithanandula/To-Do-App.git
 
 3.2. Navigate into the project directory
    cd To-Do-App
